@@ -11,3 +11,6 @@ O repositório está organizado em diferentes seções, cada uma focada em um as
   - Comunicação entre Threads: Exemplos de como as threads podem se comunicar de forma segura e eficiente.
   - Paralelismo de Dados: Exercícios focados em dividir tarefas de processamento de dados entre múltiplas threads para aumentar a eficiência.
   -   Estudo de Casos: Análise de problemas reais e como resolvê-los utilizando programação concorrente.
+
+## Como Usar
+Clone o Repositório:                     git clone https://github.com/seu-usuario/ConcurrencyExercises.git

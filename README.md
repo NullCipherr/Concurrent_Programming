@@ -13,4 +13,9 @@ O repositório está organizado em diferentes seções, cada uma focada em um as
   -   Estudo de Casos: Análise de problemas reais e como resolvê-los utilizando programação concorrente.
 
 ## Como Usar
-Clone o Repositório:                     git clone https://github.com/seu-usuario/ConcurrencyExercises.git
+  1) Clone o Repositório:                     
+                          git clone https://github.com/seu-usuario/ConcurrencyExercises.git
+  2) Navegue até a pasta do exercício desejado:
+                          cd ConcurrencyExercises/<pasta-do-exercicio>
+  3) Leia as instruções: Cada pasta de exercício contém um arquivo README.md com instruções detalhadas.
+  4) Execute o código: Siga as instruções para compilar e executar os exemplos.

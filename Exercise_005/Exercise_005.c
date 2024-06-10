@@ -1,7 +1,3 @@
-// Aluno e RA
-// Andrei Roberto da Costa 107975
-// João Gilberto Pelisson Casagrandre 112684
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

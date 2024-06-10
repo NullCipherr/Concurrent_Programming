@@ -1,6 +1,3 @@
-// Aluno e RA
-// Andrei Roberto da Costa RA107975
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

@@ -1,7 +1,3 @@
-// Aluno e RA
-// Andrei Roberto da Costa RA107975
-// Kananda Caroline RA116382
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <pthread.h>

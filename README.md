@@ -1,7 +1,7 @@
 # 🔄 Concurrent Programming
 
 ## 📜 Descrição
-Este repositório contém uma série de exercícios e exemplos práticos para a disciplina de Programação Concorrente. Nosso objetivo é fornecer recursos educacionais para ajudar estudantes e desenvolvedores a entender e dominar os conceitos fundamentais da programação concorrente, incluindo multithreading, paralelismo, sincronização e gestão de recursos.
+Este repositório contém uma série de exercícios e exemplos práticos para a disciplina de Programação Concorrente. O objetivo é fornecer recursos educacionais para ajudar estudantes e desenvolvedores a entender e dominar os conceitos fundamentais da programação concorrente, incluindo multithreading, paralelismo, sincronização e gestão de recursos.
 
 ## 📚 Conteúdo
 O repositório está organizado em diferentes seções, cada uma focada em um aspecto específico da programação concorrente:

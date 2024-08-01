@@ -17,7 +17,7 @@ int main(int argc, char *argv[])
     int id, np, i;
     int elements_por_processo;
     int inicio_indice, final_indice;
-    int soma_local = 0;
+    double soma_local = 0;
     double media_aritmetica = 0.0;
 
     MPI_Init(&argc, &argv);
@@ -40,12 +40,12 @@ int main(int argc, char *argv[])
 
     for (i = inicio_indice; i < final_indice; i++)
     {
-        soma_local += vetor[i];
+        soma_local = soma_local + vetor[i];
     }
 
     media_aritmetica = (double)soma_local / (final_indice - inicio_indice);
 
-    printf("Processo %d: Intervalo [%d, %d], Média = %.2f\n", id, inicio_indice, final_indice - 1, media_aritmetica);
+    printf("Processo %d: Intervalo [%d, %d], Soma = %.2f, Média = %.2f\n", id, inicio_indice, final_indice - 1, soma_local, media_aritmetica);
 
     MPI_Finalize();
     return 0;

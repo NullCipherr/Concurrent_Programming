@@ -1,4 +1,6 @@
-# MPI
+# **MPI**
+
+## 1. Conceitos Básicos
 
 ---
 
@@ -146,7 +148,7 @@ A biblioteca MPI é uma das mais utilizadas para programação paralela em ambie
 
 Claro, vamos continuar expandindo o conteúdo a partir da seção de comunicação coletiva, adicionando mais exemplos, detalhes e curiosidades.
 
-## Conceitos Intermediário
+## 2. Conceitos Intermediário
 
 ### Comunicação Ponto a Ponto
 

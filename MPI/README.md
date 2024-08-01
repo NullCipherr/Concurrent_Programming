@@ -1,8 +1,6 @@
 # **MPI**
 
-## 1. Conceitos Básicos
-
----
+## Conceitos Básicos
 
 ### 1. Compilar utilizando OpenMPI
 
@@ -148,7 +146,7 @@ A biblioteca MPI é uma das mais utilizadas para programação paralela em ambie
 
 Claro, vamos continuar expandindo o conteúdo a partir da seção de comunicação coletiva, adicionando mais exemplos, detalhes e curiosidades.
 
-## 2. Conceitos Intermediário
+## Conceitos Intermediários
 
 ### Comunicação Ponto a Ponto
 

@@ -1,29 +1,3 @@
-// Aluno e RA
-//
-// Andrei Roberto da Costa RA: 107975
-
-/*
-
-Exemplo 02: Testes com a identificacao de processos no OPENMPI.
-
-Salve este arquivo com o nome exemplo02.c
-
-Compile-o em um terminal pela linha de comando, da seguinte forma:
-
->mpicc exemplo02.c -o exemplo02 <enter>
-
-Depois execute-o pela linha de comando, da seguinte forma:
-
->mpirun -np 5 ./exemplo02 bla ble bli blo blu <enter>
-
-Atencao: talvez seja necessario utilizar a opcao --oversubscribe na
-linha de comando do mpirun para permitir executar mais processos doque
-o numero de cores/processadores.
-
-Analise o codigo e a execucao. Teste diferentes numeros de processos.
-
-*/
-
 #include <stdio.h>
 #include <mpi.h>
 

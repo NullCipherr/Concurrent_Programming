@@ -124,18 +124,6 @@ Contribuições são bem-vindas! Se você encontrar um bug ou tiver uma sugestã
 4. **Push para a branch** (`git push origin feature/nova-feature`)
 5. **Abra um Pull Request**
 
-## Licença
-
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-## Contato
-
-Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato:
-
-- **Email**: seu-email@example.com
-- **LinkedIn**: [Seu Perfil no LinkedIn](https://www.linkedin.com/in/seu-perfil/)
-- **Twitter**: [@seu-usuario](https://twitter.com/seu-usuario)
-
 ---
 
 Espero que este README.md seja útil para você! Se precisar de mais alguma coisa, estou à disposição.

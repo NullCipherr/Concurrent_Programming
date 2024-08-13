@@ -1,5 +1,7 @@
-// Aluno e RA
-// Andrei Roberto da Costa RA: 107975
+/*
+    Resolução do desafio do Exemplo 14
+    Aluno: Andrei Roberto da Costa      RA: 107975
+*/
 
 /*
 

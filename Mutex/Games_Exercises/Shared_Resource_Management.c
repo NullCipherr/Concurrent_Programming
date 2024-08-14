@@ -91,5 +91,9 @@ int main()
         pthread_join(threads[i], NULL);
     }
 
+    // Destroi os mutexes
+    pthread_mutex_destroy(&gold_mutex);
+    pthread_mutex_destroy(&wood_mutex);
+
     return 0;
 }

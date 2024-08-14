@@ -1,4 +1,4 @@
-// 1. Controle de Inventário de Itens
+// Controle de Inventário de Itens
 //
 // Exercício : Em um jogo de RPG, diferentes threads representam jogadores que adicionam e removem itens de um inventário compartilhado.
 // Use múltiplos mutexes para garantir que o inventário seja atualizado corretamente sem interferências de outras threads.

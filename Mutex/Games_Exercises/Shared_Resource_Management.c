@@ -1,4 +1,5 @@
 // Gerenciamento de Recursos Compartilhados
+//
 // Exercício : Em um jogo de estratégia, jogadores(threads) competem por recursos limitados, como ouro e madeira.
 // Utilize múltiplos mutexes para controlar o acesso a esses recursos.
 
